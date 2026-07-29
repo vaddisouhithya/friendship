@@ -25,7 +25,7 @@ text:"Distance, time, and everything else fade when I think of you.But still i w
 },
 
 {
-image:"images/photo5.jpeg",
+image:"photo5.jpeg",
 title:"My Favorite Person ❤️",
 text:"You make ordinary moments feel extraordinary."
 },
